@@ -1,6 +1,6 @@
 package collection.set;
 
-public class MyHasySetV0Main {
+public class MyHashSetV0Main {
 	public static void main(String[] args) {
 		MyHashSetV0 set = new MyHashSetV0();
 
